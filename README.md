@@ -2,7 +2,7 @@
 
 A brief description of what this project does and who it is for
 
-![Alt ​​text](.\resources\readme\frontpage.png)
+![Alt ​​text](./resources/readme/frontpage.png)
 
 ## Authentication
 
@@ -17,7 +17,7 @@ By default I created two users to make it easier to understand the template, the
   user: readonly key: abc
 ```
 
-![Alt ​​text](.\resources\readme\adminview.png)
+![Alt ​​text](./resources/readme/adminview.png)
 
 ## Installation
 
